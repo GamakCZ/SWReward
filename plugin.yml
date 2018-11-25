@@ -1,0 +1,8 @@
+name: SkyWars-Reward
+api: 4.0.0
+main: skywars\SWReward
+author: VixikHD
+description: Money reward for SkyWars plugin
+version: 1.1.0
+website: https://github.com/GamakCZ/SkyWars
+depend: [SkyWars, EconomyAPI]

@@ -1,0 +1,7 @@
+---
+# Money reward
+reward: 100
+
+# Displayed message
+message: 'You won $100!'
+...
