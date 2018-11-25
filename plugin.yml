@@ -1,5 +1,5 @@
 name: SkyWars-Reward
-api: 4.0.0
+api: 3.0.0
 main: skywars\SWReward
 author: VixikHD
 description: Money reward for SkyWars plugin
