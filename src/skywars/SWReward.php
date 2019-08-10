@@ -2,18 +2,18 @@
 
 declare(strict_types=1);
 
-namespace skywars;
+namespace vixikhd\skywars;
 
 use onebone\economyapi\EconomyAPI;
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
 use pocketmine\plugin\PluginException;
 use pocketmine\utils\Config;
-use skywars\event\PlayerArenaWinEvent;
+use vixikhd\skywars\event\PlayerArenaWinEvent;
 
 /**
  * Class SWReward
- * @package skywars
+ * @package vixikhd\skywars
  */
 class SWReward extends PluginBase implements Listener {
 
